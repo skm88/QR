@@ -1,3 +1,3 @@
 # QR
 
-## https://skm88.github.io/QR/
+## https://skm88.github.io/QR/index.html
