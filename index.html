@@ -413,7 +413,7 @@
         const cat=BM_CATS.find(c=>c.id===(S.bookmarkCats[k]||"none"))||BM_CATS[0];
         return`<div class="bm-card">
           <div class="bm-card-header">
-            <span class="bm-vtag">Verset ${vn}</span>
+            <span class="bm-vtag">Sourate ${sn} · Verset ${vn}</span>
             <span style="font-size:.7rem;color:var(--text-muted)">${su.nameAr}</span>
             <span class="bm-cat-pill" style="color:${cat.color};background:${cat.bg}">${cat.ico} ${cat.label}</span>
           </div>
